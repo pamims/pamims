@@ -4,11 +4,10 @@ I'm currently pursuing a computer science degree at Wilmington University. I hav
 
 ## 🚀 Skills
 
-- [Skill 1] 💻
-- [Skill 2] 🌐
-- [Skill 3] 📊
-- [Skill 4] 🔧
-- ...
+- Programming: Python, C#, C++ 💻
+- Web Dev: HTML, CSS, JS, PHP 🌐
+- Data Visualization 📊
+- Problem Solving and Analysis 🧠
 
 ## 🛠️ Projects
 
