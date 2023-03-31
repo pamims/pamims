@@ -31,8 +31,8 @@ A Discord bot written in C# that empowers Discord communities to moderate themse
 
 ## 🎓 Education
 
-- [Degree] in [Field], [University], [Graduation Year] 🎓
-- [Certification] in [Field], [Issuing Organization], [Year] 📜
+- (pending) Bachelor of Science in Computer Science, Wilmington University, 2023 🎓
+- Bachelor of Science in Nuclear Engineering Technology, Excelsior University, 2022 🏫
 
 ## 💼 Experience
 
